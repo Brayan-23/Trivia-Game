@@ -1,4 +1,9 @@
-# :construction: README customizado em construção ! :construction:
+# Trivia Game
+
+### Link Projeto Funcionando
+
+ <a href="https://main.d3hwi23vv25da8.amplifyapp.com/" target="_blank"> Game 🃏</a>
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
