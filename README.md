@@ -35,7 +35,7 @@ Jogo de Trivia para brincar com sua família!
 - *Clonar o repositório:*
 
 ```
-$ git clone
+$ git clone git@github.com:Brayan-23/Trivia-Game.git
 ```
 
 - *Acessar o projeto triviagame:*
